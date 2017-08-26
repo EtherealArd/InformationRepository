@@ -85,3 +85,7 @@ inclusive
 respectively
 involved
 condition
+Ensures 
+enforces
+batched
+robust
