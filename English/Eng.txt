@@ -55,7 +55,7 @@ immutable
 --------------
 succinctly
 harm
-precedence
+parentheses
 Although
 Hoisting
 spot
@@ -71,7 +71,6 @@ closure
 bare
 slightly
 arbitrary
-parentheses
 convenient
 arrange
 quotient
@@ -89,3 +88,16 @@ Ensures
 enforces
 batched
 robust
+fetch 
+collation
+favor
+subsections
+overall 
+Despite
+Beside
+restriction
+propagate
+obtain
+ability
+deprecated
+Miscellaneous
