@@ -133,3 +133,18 @@ emphasize
 enunciate
 hire
 comprehension
+arrangements
+booking - accommodations
+reservation
+rent - car
+check-in
+carry-on
+boarding-pass
+visa
+transit
+currency
+vaccination
+inoculation
+itinerary
+declare
+custom
